@@ -120,7 +120,7 @@ header{
 }
 header .social-media i{
     color: var(--destaques-color);
-    background-color: #059652
+    
 }
   .navbar{
     justify-content: space-between;
@@ -207,7 +207,6 @@ header .social-media i{
   }
   .redes-sociais a{
     color: #f29200; 
-    background-color: #df1529;
     
   }
   

@@ -390,7 +390,7 @@ header .social-media i{
 # Global Section Titles
 --------------------------------------------------------------*/
 .section-title {
-    margin-top: 20px;
+    margin-top: 30px;
     text-align: center;
     padding-bottom: 60px;
     position: relative;
@@ -424,7 +424,7 @@ header .social-media i{
     display: block;
     width: 60px;
     height: 3px;
-    background: var(--heading-color);
+    background: #f29200;
     left: 0;
     right: 0;
     bottom: 0;
@@ -436,8 +436,10 @@ header .social-media i{
   }
   
 
-  .about{
-    background-color: #c6c9e8;
+  .about p{
+    color: #141a34e2;
+
+    
   }
 
 

@@ -113,25 +113,23 @@ animation: animate-preloader 1.5s linear infinite;
 
 header{
     background-color: #1f284f;
-    width: 100%;
-    padding: 10px;
+    width: 100vw;
     position: fixed;
     top: 0;
     z-index:12;
 }
 header .social-media i{
     color: var(--destaques-color);
+    background-color: #059652
 }
   .navbar{
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 20px;
+    justify-content: space-between;
       
      
   }
-  .logo{
-      font-size: 2.1em;
+  .logo img{
+      width: 60px;
+      height: 70px;
   }
   .nav-menu{
       display: flex;
@@ -209,6 +207,7 @@ header .social-media i{
   }
   .redes-sociais a{
     color: #f29200; 
+    background-color: #df1529;
     
   }
   

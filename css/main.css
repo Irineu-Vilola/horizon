@@ -215,7 +215,7 @@ header .social-media i{
    /*--------------------------------------------------------------
   # Responsive nave menu.
   --------------------------------------------------------------*/
-  @media (max-width:768px){
+  @media (max-width:520px){
       .hamburguer{
           display: block;
       }

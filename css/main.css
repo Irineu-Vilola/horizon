@@ -178,7 +178,10 @@ header i{
 }
 
 
-
+.email-menu p{
+  color: var(--normal-color);
+  font-style: italic;
+}
 
 /*--------------------------------------------------------------
   # Hero carrosel.

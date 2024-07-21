@@ -204,7 +204,7 @@ header i{
 .hero {
     background-color: #141a34;
     width: 100%;
-    min-height: 100vh;
+    min-height: 80vh;
     position: relative;
     padding: 120px 0 60px 0;
     display: flex;
@@ -290,6 +290,10 @@ header i{
       font-size: 13px;
     }
     
+  }
+  .redes-sociais i{
+    color: var(--destaques-color);
+
   }
 
   @keyframes up-down {

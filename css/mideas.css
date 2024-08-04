@@ -5,7 +5,7 @@
     
     
     header{
-        background-color:white;
+        
        
       }
       header i{
@@ -65,7 +65,7 @@
 
 @media screen and (min-width:992px) and (max-width:1200px) {
     header{
-        background-color:var(--background-color);
+        
        
       }
       header i{
@@ -149,7 +149,7 @@
         width: 26px;
         height: 3px;
         margin: 5px auto;
-        background-color:var(--destaques-color);
+       
       }
       
       .hamburguer.active .linha:nth-child(2){
